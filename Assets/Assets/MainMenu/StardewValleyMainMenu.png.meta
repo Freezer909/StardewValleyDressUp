@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 4ac95c2069e1df946ae40d8624ad683b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2363382638871442117
+    second: StardewValleyMainMenu_0
+  - first:
+      213: 8304716870084543443
+    second: StardewValleyMainMenu_1
+  - first:
+      213: 3547764139458180925
+    second: StardewValleyMainMenu_2
+  - first:
+      213: 4388569686569715696
+    second: StardewValleyMainMenu_3
+  - first:
+      213: -5874019649054444099
+    second: StardewValleyMainMenu_4
+  - first:
+      213: 2690909775548041502
+    second: StardewValleyMainMenu_5
+  - first:
+      213: -9038736813895102050
+    second: StardewValleyMainMenu_6
+  - first:
+      213: -4467814868105463011
+    second: StardewValleyMainMenu_7
+  - first:
+      213: -6131135051454912547
+    second: StardewValleyMainMenu_8
+  - first:
+      213: 5272125456982709810
+    second: StardewValleyMainMenu_9
+  - first:
+      213: 2412764196455317699
+    second: StardewValleyMainMenu_10
+  - first:
+      213: -7294274007836752339
+    second: StardewValleyMainMenu_11
+  - first:
+      213: 2536811147644790317
+    second: StardewValleyMainMenu_12
+  - first:
+      213: -5383883507577983468
+    second: StardewValleyMainMenu_13
+  - first:
+      213: -7354619796468092306
+    second: StardewValleyMainMenu_14
+  - first:
+      213: 3095727381757596508
+    second: StardewValleyMainMenu_15
+  - first:
+      213: -7508217436724437751
+    second: StardewValleyMainMenu_16
+  - first:
+      213: -3065482800581230891
+    second: StardewValleyMainMenu_17
+  - first:
+      213: -506291168291436138
+    second: StardewValleyMainMenu_18
+  - first:
+      213: 5724706452665036264
+    second: StardewValleyMainMenu_19
+  - first:
+      213: -8998014951648670680
+    second: StardewValleyMainMenu_20
+  - first:
+      213: 5402339472952032716
+    second: StardewValleyMainMenu_21
+  - first:
+      213: -1372046592917239735
+    second: StardewValleyMainMenu_22
+  - first:
+      213: 8004900140387864197
+    second: StardewValleyMainMenu_23
+  - first:
+      213: -7569387173916281361
+    second: StardewValleyMainMenu_24
+  - first:
+      213: -7417128051952825466
+    second: StardewValleyMainMenu_25
+  - first:
+      213: -2025130912973829622
+    second: StardewValleyMainMenu_26
+  - first:
+      213: -1135322560074419318
+    second: StardewValleyMainMenu_27
+  - first:
+      213: -3046790503364903127
+    second: StardewValleyMainMenu_28
+  - first:
+      213: 4901328164081396059
+    second: StardewValleyMainMenu_29
+  - first:
+      213: 246201954585529976
+    second: StardewValleyMainMenu_30
+  - first:
+      213: 2845989979406965014
+    second: StardewValleyMainMenu_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 400
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d0ebdf204933fd0800000000000000
+      internalID: -2363382638871442117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 406
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d345993ef7404370800000000000000
+      internalID: 8304716870084543443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 172
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37364f10b03c3130800000000000000
+      internalID: 3547764139458180925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 172
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f70908d0e457ec30800000000000000
+      internalID: 4388569686569715696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 172
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5f176404a4b7ea0800000000000000
+      internalID: -5874019649054444099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2369fb29b2a5a2940800000000000000
+      internalID: 5272125456982709810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c00088d04cdb7120800000000000000
+      internalID: 2412764196455317699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 190
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d268684cf6885ca90800000000000000
+      internalID: -7294274007836752339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 202
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d266e955c40943320800000000000000
+      internalID: 2536811147644790317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 172
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62b675f2442fe990800000000000000
+      internalID: -7354619796468092306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 174
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c539c1fd6ab36fa20800000000000000
+      internalID: 3095727381757596508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 193
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de394e62a73575d0800000000000000
+      internalID: -3065482800581230891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 190
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69942196dda49f8f0800000000000000
+      internalID: -506291168291436138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 174
+        width: 133
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed6c7a103e327f40800000000000000
+      internalID: 5724706452665036264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cc3533311a02380800000000000000
+      internalID: -8998014951648670680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 174
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd7069b027f8fa40800000000000000
+      internalID: 5402339472952032716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 174
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94802e5a4e285fce0800000000000000
+      internalID: -1372046592917239735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e0b42144e171f60800000000000000
+      internalID: 8004900140387864197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5725b387224f690800000000000000
+      internalID: -7569387173916281361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b44c99551111990800000000000000
+      internalID: -7417128051952825466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a488c0a2a45e3e0800000000000000
+      internalID: -2025130912973829622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 400
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83f64595268e30f0800000000000000
+      internalID: -1135322560074419318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fb6e50e20a7b5d0800000000000000
+      internalID: -3046790503364903127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 26
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5960b33ff3050440800000000000000
+      internalID: 4901328164081396059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 35
+        width: 109
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ec31e8f5faa6300800000000000000
+      internalID: 246201954585529976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 33
+        width: 112
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6199fdcbeccfe7720800000000000000
+      internalID: 2845989979406965014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 406
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0d5173cfc967c4b90c7a8bc2cb73d7
+      internalID: -730649421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 406
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f51f1888408b74fbc3248c65b3d9e3
+      internalID: -1564221108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_34
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 406
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8603c62e89668cf4d94cb405aa5200fa
+      internalID: -606524285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 410
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812009b19ee3cc74f9a12163369d3941
+      internalID: -1895480839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 410
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1065791c5f6d4504490467aba61aa9f9
+      internalID: -2077926026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 410
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6b87f2f50e0fe4ab373700740eba2e
+      internalID: -142111954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99601296948fe44eaf1adddc1eb93aa
+      internalID: 1320937456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7da68d04cfa3742ab55b45daab5d57
+      internalID: 2104892602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 352
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1276da4ac8b69442acdd202d84266cd
+      internalID: 1371306300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_41
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 352
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65823844b2739c543b364cab5510932e
+      internalID: 1612095887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_42
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 352
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d7c9c5e60d36b43ae380e9f045b0de
+      internalID: -1816658156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 375
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c70c2a2e051d048a1a6b59d5a21c59
+      internalID: 493722017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StardewValleyMainMenu_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 349
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ce0b834f54f34dabf345be0e0da4c
+      internalID: 746013625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d4895bed6ce6b2d45add8a7649e422ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StardewValleyMainMenu_0: -2363382638871442117
+      StardewValleyMainMenu_1: 8304716870084543443
+      StardewValleyMainMenu_10: 2412764196455317699
+      StardewValleyMainMenu_11: -7294274007836752339
+      StardewValleyMainMenu_12: 2536811147644790317
+      StardewValleyMainMenu_13: -5383883507577983468
+      StardewValleyMainMenu_14: -7354619796468092306
+      StardewValleyMainMenu_15: 3095727381757596508
+      StardewValleyMainMenu_16: -7508217436724437751
+      StardewValleyMainMenu_17: -3065482800581230891
+      StardewValleyMainMenu_18: -506291168291436138
+      StardewValleyMainMenu_19: 5724706452665036264
+      StardewValleyMainMenu_2: 3547764139458180925
+      StardewValleyMainMenu_20: -8998014951648670680
+      StardewValleyMainMenu_21: 5402339472952032716
+      StardewValleyMainMenu_22: -1372046592917239735
+      StardewValleyMainMenu_23: 8004900140387864197
+      StardewValleyMainMenu_24: -7569387173916281361
+      StardewValleyMainMenu_25: -7417128051952825466
+      StardewValleyMainMenu_26: -2025130912973829622
+      StardewValleyMainMenu_27: -1135322560074419318
+      StardewValleyMainMenu_28: -3046790503364903127
+      StardewValleyMainMenu_29: 4901328164081396059
+      StardewValleyMainMenu_3: 4388569686569715696
+      StardewValleyMainMenu_30: 246201954585529976
+      StardewValleyMainMenu_31: 2845989979406965014
+      StardewValleyMainMenu_32: -730649421
+      StardewValleyMainMenu_33: -1564221108
+      StardewValleyMainMenu_34: -606524285
+      StardewValleyMainMenu_35: -1895480839
+      StardewValleyMainMenu_36: -2077926026
+      StardewValleyMainMenu_37: -142111954
+      StardewValleyMainMenu_38: 1320937456
+      StardewValleyMainMenu_39: 2104892602
+      StardewValleyMainMenu_4: -5874019649054444099
+      StardewValleyMainMenu_40: 1371306300
+      StardewValleyMainMenu_41: 1612095887
+      StardewValleyMainMenu_42: -1816658156
+      StardewValleyMainMenu_43: 493722017
+      StardewValleyMainMenu_44: 746013625
+      StardewValleyMainMenu_5: 2690909775548041502
+      StardewValleyMainMenu_6: -9038736813895102050
+      StardewValleyMainMenu_7: -4467814868105463011
+      StardewValleyMainMenu_8: -6131135051454912547
+      StardewValleyMainMenu_9: 5272125456982709810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
