@@ -9,24 +9,36 @@ public class CharacterClothes : MonoBehaviour, IDropHandler
     public void OnDrop(PointerEventData eventData)
     {
         Drag draggedItem = eventData.pointerDrag.GetComponent<Drag>();
-
         if (draggedItem != null)
         {
-            string type = draggedItem.itemType;
-
-            if (equippedItems.ContainsKey(type) && equippedItems[type] != draggedItem)
-            {
-                equippedItems[type].ReturnToOriginalParent();
-            }
-
-            equippedItems[type] = draggedItem;
-
-            draggedItem.EquipToCharacter(this.transform);
+            HandleEquip(draggedItem);
         }
+    }
+
+    public void OnDropManual(Drag draggedItem)
+    {
+        HandleEquip(draggedItem);
+    }
+
+    private void HandleEquip(Drag draggedItem)
+    {
+        string type = draggedItem.itemType;
+
+        if (equippedItems.ContainsKey(type) && equippedItems[type] != draggedItem)
+        {
+            equippedItems[type].ReturnToOriginalParent();
+        }
+
+        equippedItems[type] = draggedItem;
+
+        draggedItem.EquipToCharacter(this.transform);
     }
 
     public void UnregisterItem(string type)
     {
-        if (equippedItems.ContainsKey(type)) equippedItems.Remove(type);
+        if (equippedItems.ContainsKey(type))
+        {
+            equippedItems.Remove(type);
+        }
     }
 }
