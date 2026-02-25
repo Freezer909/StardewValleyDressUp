@@ -1,47 +1,35 @@
 ﻿using System;
 using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class NameDateScript : MonoBehaviour
 {
-
-    private string text;
-    private string date;
-
-    private int rand;
     public TMP_InputField NameField;
-    public TMP_InputField DateField;
+    public TMP_InputField YearField;
     public TMP_Text TextField;
-
-    private int CalculateAge(DateTime birthDate)
-    {
-        DateTime today = DateTime.Today;
-        int age = today.Year - birthDate.Year;
-
-        if (birthDate.Date > today.AddYears(-age))
-        {
-            age--;
-        }
-
-        return age;
-    }
 
     public void CalculateInfo()
     {
         string characterName = NameField.text;
-        string dateInput = DateField.text;
+        string yearInput = YearField.text;
 
-        if (DateTime.TryParse(dateInput, out DateTime birthDate))
+        if (int.TryParse(yearInput, out int birthYear))
         {
-            int age = CalculateAge(birthDate);
+            int currentYear = DateTime.Today.Year;
 
-            TextField.text = $"Fermeris "+characterName+" ir "+age+" gadus vecs!";
+            if (birthYear <= currentYear && birthYear > 1900)
+            {
+                int age = currentYear - birthYear;
+                TextField.text = $"Fermeris {characterName} ir {age} gadus vecs!";
+            }
+            else
+            {
+                TextField.text = "Ievadi reālu dzimšanas gadu!";
+            }
         }
         else
         {
-            TextField.text = "Ievadi derīgu datumu (piem - 20.05.2025)";
+            TextField.text = "Ievadi gadu kā skaitli (piem. 1995)";
         }
     }
-
 }
