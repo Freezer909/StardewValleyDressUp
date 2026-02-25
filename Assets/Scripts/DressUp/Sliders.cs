@@ -1,12 +1,16 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 public class Sliders : MonoBehaviour
 {
     public RectTransform characterRect;
+    public RectTransform[] Clothes;    
 
     public Slider garumsSlider;
     public Slider platumsSlider;
+
+    public Slider garumsSliderApgerbs;
+    public Slider platumsSliderApgerbs;
 
     private Vector2 sakumaIzmers;
 
@@ -14,17 +18,43 @@ public class Sliders : MonoBehaviour
     {
         sakumaIzmers = characterRect.sizeDelta;
 
-        garumsSlider.onValueChanged.AddListener(MainitGarumu);
-        platumsSlider.onValueChanged.AddListener(MainitPlatumu);
+        garumsSlider.onValueChanged.AddListener(MainitCilvekaGarumu);
+        platumsSlider.onValueChanged.AddListener(MainitCilvekaPlatumu);
+
+        garumsSliderApgerbs.onValueChanged.AddListener(MainitApgerbaGarumu);
+        platumsSliderApgerbs.onValueChanged.AddListener(MainitApgerbaPlatumu);
+
+        foreach (RectTransform item in Clothes)
+        {
+            if (item != null) item.sizeDelta = sakumaIzmers;
+        }
     }
 
-    void MainitGarumu(float vertiba)
+    void MainitCilvekaGarumu(float vertiba)
     {
         characterRect.sizeDelta = new Vector2(characterRect.sizeDelta.x, vertiba);
     }
 
-    void MainitPlatumu(float vertiba)
+    void MainitCilvekaPlatumu(float vertiba)
     {
         characterRect.sizeDelta = new Vector2(vertiba, characterRect.sizeDelta.y);
+    }
+
+    void MainitApgerbaGarumu(float vertiba)
+    {
+        foreach (RectTransform item in Clothes)
+        {
+            if (item != null)
+                item.sizeDelta = new Vector2(item.sizeDelta.x, vertiba);
+        }
+    }
+
+    void MainitApgerbaPlatumu(float vertiba)
+    {
+        foreach (RectTransform item in Clothes)
+        {
+            if (item != null)
+                item.sizeDelta = new Vector2(vertiba, item.sizeDelta.y);
+        }
     }
 }
